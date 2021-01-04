@@ -1,3 +1,5 @@
+> COMMIT에서 적용한 내용들을 확인할 수 있습니다.
+
 # 📍commit msg를 잘 작성해야 하는 이유.
 
 1. 간결하고 일관적일 때 가독성이 좋고.
@@ -75,4 +77,4 @@ git은 전체적으로 80자 미만으로 텍스트를 유지하게 한다네용
 [Link 1](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html) <br>
 [Link 2](https://chris.beams.io/posts/git-commit/) <br>
 [Link 3](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.greljkmo14y0) <br>
-[Link 4](https://doublesprogramming.tistory.com/256)
+[👍Link 4👍](https://doublesprogramming.tistory.com/256)
